@@ -27,7 +27,7 @@ Phicomm K3 OpenWrt firmware Compile by Github Actions
 
 - ADbyby Plus
 
-- HelloWorld
+- SSR PLUS+
 
 - UnblockNeteaseMusic
 
