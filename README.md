@@ -1,4 +1,4 @@
-# K3-OpenWrt-Firmware-Action 
+# Phicomm K3-OpenWrt-Firmware
 Phicomm K3 OpenWrt firmware Compile by Github Actions
 
 
