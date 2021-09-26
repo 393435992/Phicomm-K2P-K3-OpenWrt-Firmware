@@ -23,11 +23,11 @@ Phicomm K3 OpenWrt firmware Compile by Github Actions
 
 - IPv6 Full Support
 
-- Phicoomm K3's LCD Screen Full Support
+- Phicomm K3 LCD Screen Full Support
 
 - ADbyby Plus
 
-- SSR PLUS+
+- SSR Plus+
 
 - WiFi Schedule
 
@@ -35,10 +35,8 @@ Phicomm K3 OpenWrt firmware Compile by Github Actions
 
 - KMS Server
 
-
 - Network Turbo ACC(base Qualcomm SFE)
 
-- Others
 
 ## Tanks | 致谢
 
