@@ -29,17 +29,12 @@ Phicomm K3 OpenWrt firmware Compile by Github Actions
 
 - SSR PLUS+
 
-- UnblockNeteaseMusic
-
 - WiFi Schedule
 
 - UPNP
 
 - KMS Server
 
-- Syncdial
-
-- MWan3
 
 - Network Turbo ACC(base Qualcomm SFE)
 
