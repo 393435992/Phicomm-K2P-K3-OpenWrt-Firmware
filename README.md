@@ -23,8 +23,6 @@ Phicomm K3 OpenWrt firmware Compile by Github Actions
 
 - SSR Plus+
 
-- WiFi Schedule
-
 - UPNP
 
 - KMS Server
