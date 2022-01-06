@@ -35,7 +35,7 @@ echo '=========Add k3screen Plug OK!========='
 echo '替换lwz322的K3屏幕驱动'
 rm -rf package/lean/k3screenctrl
 git clone https://github.com/lwz322/k3screenctrl_build.git package/lean/k3screenctrl/
-wget -nv https://github.com/393435992/k3screen-fix-patch/raw/main/k3screen/000-k3screen.patch  -P package/lean/k3screenctrl
+wget -nv https://github.com/393435992/k3screen-fix-patch/raw/main/k3screen/000-k3screen.patch  -P package/lean/k3screenctrl/patches
 #sed -i 's/@TARGET_bcm53xx_DEVICE_phicomm-k3 +@KERNEL_DEVMEM //g' package/lean/k3screenctrl/Makefile
 cat package/lean/k3screenctrl/Makefile |grep DEPENDS
 echo '=========Add k3screen Drive OK!========='
